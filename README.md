@@ -1,7 +1,8 @@
 
 Movie Fan Page                                                                                                                                      
 An application that allows users  to show and filter the character info
-• Built with HTML, CSS, React
+
+ Built with HTML, CSS, React
 
 
 
