@@ -1,3 +1,13 @@
+
+Movie Fan Page                                                                                                                                                 An application that allows users  to show and filter the character info
+• Built with HTML, CSS, React
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
